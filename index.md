@@ -13,7 +13,7 @@ This is the Kindle Modding wiki, an online resource which hopes to consolidate a
 ## Jailbreaking?
 Just want to jailbreak your Kindle to get access to KOReader and other homebrew?
 
-[Getting Started With Jailbreaking](/jailbreaking/getting-started){: .btn .btn-purple }
+[Getting Started With Jailbreaking](/jailbreaking/getting-started.md){: .btn .btn-purple }
 
 ## Developing?
 Want to develop your own software?
