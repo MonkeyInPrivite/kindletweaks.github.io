@@ -18,7 +18,7 @@ Just want to jailbreak your Kindle to get access to KOReader and other homebrew?
 ## Developing?
 Want to develop your own software?
 
-[Getting Started With Development](/kindle-dev){: .btn .btn-purple }
+[Getting Started With Development](/kindle-dev.md){: .btn .btn-purple }
 
 ## Questions?
 Got any questions about jailbreaking?
