@@ -16,7 +16,7 @@ As a user, this gives you access to:
 - Custom screensavers
 - Custom fonts on firmwares that do not support it
 - Homebrew such as apps, games and more
-- [Downgrading your firmware](../firmware-and-flashing/downgrading)
+- [Downgrading your firmware](../firmware-and-flashing/downgrading.md)
 
 {: .warning}
 > Please be aware of the risks of jailbreaking before you jailbreak your Kindle including, but not limited to:
